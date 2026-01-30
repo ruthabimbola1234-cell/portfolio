@@ -30,6 +30,7 @@ I help businesses turn data into strategy by translating technical findings into
 <table>
   <tbody>
     <tr>
+      <td>📧</td>
       <td><a href="mailto:ruthabimbola1234@gmail.com">ruthabimbola1234@gmail.com</a></td>
     </tr>
     <tr>
