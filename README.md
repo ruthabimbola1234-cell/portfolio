@@ -9,17 +9,17 @@ I’m a Data Analyst, Biochemist, and Researcher with a strong passion for turni
 
 *I specialize in acquiring, analyzing, and interpreting data to deliver actionable insights and effective solutions. My expertise lies in leveraging data to support informed decision-making and strategic growth. ;*
 
-**- ✅ Data Analysis & Visualization.**
+** ✅ Data Analysis & Visualization.**
 I transform raw, messy data into meaningful insights using Python, SQL, Excel, and Power BI. I enjoy exploring data, identifying patterns, and building clear dashboards that tell a story and support smart decision-making. 
 
-**- ✅ Research & Scientific Thinking.**
+** ✅ Research & Scientific Thinking.**
 With a strong background in biochemistry and research, I approach problems analytically and methodically. I’m skilled in experimental design, data interpretation, and applying statistical thinking to both scientific and business questions.
 
-**- ✅ Programming & Data Tools.**
+** ✅ Programming & Data Tools.**
 I work confidently with Python for data analysis and automation, and SQL for querying and managing databases. I write clean, well-documented code and value reproducibility and clarity in every project.
 
 
-**- ✅ Business Analysis & Consulting.**
+** ✅ Business Analysis & Consulting.**
 I help businesses turn data into strategy by translating technical findings into practical insights. My work focuses on performance analysis, process improvement, and evidence-based recommendations that create real impact.
 
 
@@ -30,8 +30,7 @@ I help businesses turn data into strategy by translating technical findings into
 <table>
   <tbody>
     <tr>
-      <td>📧</td>
-      <td><a href="mailto:ruthabimbola1234@gmail.com">ruthavimbola1234@gmail.com</a></td>
+      <td><a href="mailto:ruthabimbola1234@gmail.com">ruthabimbola1234@gmail.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
@@ -39,7 +38,7 @@ I help businesses turn data into strategy by translating technical findings into
     </tr>
     <tr>
       <td>📍</td>
-      <td>PH, Nigeria</td>
+      <td>Lagos, Nigeria</td>
     </tr>
     <tr>
   </tbody>
