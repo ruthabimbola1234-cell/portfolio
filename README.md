@@ -32,7 +32,11 @@ I help businesses turn data into strategy by translating technical findings into
 ![image](Excel global crash.PNG)
 
 The global aircrash talks more on the crashes that occured between 1908-2024
-[Read More](http://github.com/ruthabimbola1234-cell/excel-global-crash/blob/main/Adigun%20Abimbola%20Excel%20project.xlsx)
+
+
+[Read More](https://github.com/ruthabimbola1234-cell/Global-Air-crash-Analysis-App/blob/main/Cleaning_steps.ipynb?short_path=27a9338)
+
+[streamlit image](https://global-air-crash-analysis-app-ne8hx24gpojpqp9mmoelm4.streamlit.app/)
 
 ## CONTACT DETAILS
 
