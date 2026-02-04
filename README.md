@@ -29,7 +29,7 @@ I help businesses turn data into strategy by translating technical findings into
 *A glimpse of some of the projects I've been working on.*
 
 **Global Aircrash Analysis.**
-![image](1 anietie etuk data analytics car project.jpeg)
+![image](Excel global crash.PNG)
 
 The global aircrash is one of the most infamous crashes in history.
 
