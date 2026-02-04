@@ -23,6 +23,18 @@ I work confidently with Python for data analysis and automation, and SQL for que
 I help businesses turn data into strategy by translating technical findings into practical insights. My work focuses on performance analysis, process improvement, and evidence-based recommendations that create real impact.
 
 
+<!--Section 2: List 3-4 key projects-->
+## MY PROECT 
+
+*A glimpse of some of the projects I've been working on.*
+
+**Global Aircrash Analysis.**
+![image](1 anietie etuk data analytics car project.jpeg)
+
+The global aircrash is one of the most infamous crashes in history.
+
+
+[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
 ## CONTACT DETAILS
 
