@@ -31,10 +31,8 @@ I help businesses turn data into strategy by translating technical findings into
 **Global Aircrash Analysis.**
 ![image](Excel global crash.PNG)
 
-The global aircrash is one of the most infamous crashes in history.
-
-
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+The global aircrash talks more on the crashes that occured between 1908-2024
+[Read More](http://github.com/ruthabimbola1234-cell/excel-global-crash/blob/main/Adigun%20Abimbola%20Excel%20project.xlsx)
 
 ## CONTACT DETAILS
 
