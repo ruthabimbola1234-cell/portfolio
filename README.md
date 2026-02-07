@@ -43,9 +43,7 @@ The global aircrash talks more on the crashes that occured between 1908-2024
 ## PROECT  2
 
 ** Covid 19 Overview and Analysis.**
-![image](adigun abimbola image 1.PNG)
-
-The global aircrash talks more on the crashes that occured between 1908-2024
+![image](pbi overview nn.PNG)
 
 
 [Read More](https://github.com/ruthabimbola1234-cell/Global-Air-crash-Analysis-App/blob/main/Cleaning_steps.ipynb?short_path=27a9338)
