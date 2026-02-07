@@ -38,6 +38,22 @@ The global aircrash talks more on the crashes that occured between 1908-2024
 
 [streamlit image](https://global-air-crash-analysis-app-ne8hx24gpojpqp9mmoelm4.streamlit.app/)
 
+
+
+## PROECT  2
+
+** Covid 19 Overview and Analysis.**
+![image](adigun abimbola image 1.PNG)
+
+The global aircrash talks more on the crashes that occured between 1908-2024
+
+
+[Read More](https://github.com/ruthabimbola1234-cell/Global-Air-crash-Analysis-App/blob/main/Cleaning_steps.ipynb?short_path=27a9338)
+
+[streamlit image](https://global-air-crash-analysis-app-ne8hx24gpojpqp9mmoelm4.streamlit.app/)
+
+
+
 ## CONTACT DETAILS
 
 *Let’s connect and see how we can make a difference together!*
