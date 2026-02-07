@@ -28,7 +28,6 @@ I help businesses turn data into strategy by translating technical findings into
 
 *A glimpse of some of the projects I've been working on.*
 
-**Global Aircrash Analysis.**
 ![image](adigun abimbola image 1.PNG)
 
 The global aircrash talks more on the crashes that occured between 1908-2024
@@ -42,7 +41,6 @@ The global aircrash talks more on the crashes that occured between 1908-2024
 
 ## PROECT  2
 
-** Covid 19 Overview and Analysis.**
 ![image](pbi overview nn.PNG)
 
 
