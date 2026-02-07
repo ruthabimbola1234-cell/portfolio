@@ -24,7 +24,7 @@ I help businesses turn data into strategy by translating technical findings into
 
 
 <!--Section 2: List 3-4 key projects-->
-## MY PROECT 
+## MY PROJECT 
 
 *A glimpse of some of the projects I've been working on.*
 
@@ -39,9 +39,9 @@ The global aircrash talks more on the crashes that occured between 1908-2024
 
 
 
-## PROECT  2
+## PROJECT  2
 
-![image](pbi overview nn.PNG)
+![image]( pbi overview nn.PNG )
 
 
 [Read More](https://github.com/ruthabimbola1234-cell/abby6)
