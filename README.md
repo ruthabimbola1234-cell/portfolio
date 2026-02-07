@@ -46,9 +46,8 @@ The global aircrash talks more on the crashes that occured between 1908-2024
 ![image](pbi overview nn.PNG)
 
 
-[Read More](https://github.com/ruthabimbola1234-cell/Global-Air-crash-Analysis-App/blob/main/Cleaning_steps.ipynb?short_path=27a9338)
+[Read More](https://github.com/ruthabimbola1234-cell/abby6)
 
-[streamlit image](https://global-air-crash-analysis-app-ne8hx24gpojpqp9mmoelm4.streamlit.app/)
 
 
 
