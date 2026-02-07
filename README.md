@@ -51,7 +51,7 @@ The global aircrash talks more on the crashes that occured between 1908-2024
 
 ## PROJECT  3
 
-![image]( pbi overview nn.PNG )
+![image]( Causes of death WD.PNG )
 
 
 [Read More](https://github.com/ruthabimbola1234-cell/abby6)
