@@ -41,7 +41,7 @@ The global aircrash talks more on the crashes that occured between 1908-2024
 
 ## PROJECT  2
 
-![image]( pbi overview nn.PNG )
+![image]( covid image PNG.webp)
 
 
 [Read More](https://github.com/ruthabimbola1234-cell/abby6)
