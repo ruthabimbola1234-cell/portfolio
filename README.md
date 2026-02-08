@@ -28,7 +28,7 @@ I help businesses turn data into strategy by translating technical findings into
 
 *A glimpse of some of the projects I've been working on.*
 
-![image](adigun abimbola image 1.PNG)
+![image](photo-crash-of-the-airplane-falling.jpg)
 
 The global aircrash talks more on the crashes that occured between 1908-2024
 
