@@ -47,7 +47,7 @@ A data analysis project that examines the spread and impact of COVID-19 through 
 
 ![image]( Causes of death WD.PNG )
 
-Analysis of global incidents that occurred 
+Analysis of global incidents that occurred in Nigeria.
 
 [Read More](https://github.com/ruthabimbola1234-cell/Nigeria-incidents_app)
 
