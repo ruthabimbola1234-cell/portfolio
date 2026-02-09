@@ -31,12 +31,9 @@ I help businesses turn data into strategy by translating technical findings into
 
 The global aircrash talks more on the crashes that occured between 1908-2024
 
-
 [Read More](https://github.com/ruthabimbola1234-cell/Global-Air-crash-Analysis-App)
 
 [streamlit image](https://global-air-crash-analysis-app-ne8hx24gpojpqp9mmoelm4.streamlit.app/)
-
-
 
 ## PROJECT  2
 
@@ -44,16 +41,13 @@ The global aircrash talks more on the crashes that occured between 1908-2024
 
 A data analysis project that examines the spread and impact of COVID-19 through visualizations, and trend analysis.
 
-
 [Read More](https://github.com/ruthabimbola1234-cell/abby6)
-
-
-
 
 ## PROJECT  3
 
 ![image]( Causes of death WD.PNG )
 
+Analysis of global incidents that occurred 
 
 [Read More](https://github.com/ruthabimbola1234-cell/Nigeria-incidents_app)
 
